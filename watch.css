@@ -1,0 +1,61 @@
+body {
+  background-color: #ff8800;
+}
+.bodi {
+  background-color: #ff8800;
+}
+.hat {
+  display: grid;
+  justify-content: center;
+  font-size: 1.5rem;
+}
+.wat {
+  color: white;
+}
+.ha {
+  display: grid;
+  justify-content: center;
+  font-size: 1.7rem;
+  color: white;
+}
+.ts {
+  display: flex;
+  max-width: 600;
+  min-width: none;
+  justify-content: space-around;
+  font-size: 2rem;
+  width: 100%;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  margin: 1rem;
+  margin-left: 10rem;
+  margin-right: 10rem;
+}
+.btn-start {
+  display: block;
+  border: none;
+  width: 25%;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-right: 0.01rem;
+}
+.btn-stop {
+  display: inline;
+  border: none;
+  width: 25%;
+  border-radius: 10px;
+  outline: none;
+  cursor: pointer;
+  margin-left: 0.01rem;
+}
+.btn-reset {
+  border: none;
+  display: grid;
+  width: 25%;
+  padding: 1.5em;
+  border-radius: 10px;
+  cursor: pointer;
+}
